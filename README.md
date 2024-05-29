@@ -4,7 +4,7 @@
 - **Military Obligations:** Fulfilled
 
 ## Education				        		
-- B.S., Electrical and Electronics Engineering | University of West Attica
+- B.S., Electrical and Electronics Engineering-University of West Attica
 
 ## Professional Summary
 Experienced Java Software Engineer with a strong background in developing web applications for the government sector. Proficient in Java EE, JPA, and MVC architecture, with expertise in implementing SOAP and REST integrations. Adept at collaborating with cross-functional teams to deliver high-quality software products and ensure smooth project rollouts. Skilled in automated and manual testing, with a solid understanding of IoT deployment challenges and solutions.
@@ -61,5 +61,5 @@ challenges and solutions
 ## Skills
 - **Programming Languages:** Java, Python
 - **Frameworks:** Java EE, Spring, ZKoss, Vert.x, Django
-- **Databases:** MySQL, MariaDB, MSSQL, OracleDB,JPA
+- **Databases:** MySQL, MariaDB, MSSQL, OracleDB, JPA
 - **Tools:** Maven, Docker, Selenium, Appium, Git, Postman, Jira
