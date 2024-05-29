@@ -54,10 +54,9 @@ implementation of IoT solutions
 challenges and solutions
 
 ## Certifications
-- **Cisco:**
-  - CCNA: Introduction to Networks
-  - CCNA: Enterprise Networking, Security, and Automation
-  - CCNA: Switching, Routing and Wireless Essentials
+  - Cisco CCNA: Introduction to Networks
+  - Cisco CCNA: Enterprise Networking, Security, and Automation
+  - Cisco CCNA: Switching, Routing and Wireless Essentials
 
 ## Skills
 - **Programming Languages:** Java, Python
