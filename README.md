@@ -1,9 +1,10 @@
-# George Ismailaj
-
 ## Personal Information
 - **Email:** georgeismailaj@yahoo.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/giorgos-ismailaj/)
 - **Military Obligations:** Fulfilled
+
+## Education				        		
+- B.S., Electrical and Electronics Engineering | University of West Attica
 
 ## Professional Summary
 Experienced Java Software Engineer with a strong background in developing web applications for the government sector. Proficient in Java EE, JPA, and MVC architecture, with expertise in implementing SOAP and REST integrations. Adept at collaborating with cross-functional teams to deliver high-quality software products and ensure smooth project rollouts. Skilled in automated and manual testing, with a solid understanding of IoT deployment challenges and solutions.
@@ -51,11 +52,6 @@ monitoring procedures
 implementation of IoT solutions
 - Developed expertise in real-world IoT deployment
 challenges and solutions
-
-
-## Education
-			       				        		
-- B.S., Electrical and Electronics Engineering | University of West Attica
 
 ## Certifications
 - **Cisco:**
