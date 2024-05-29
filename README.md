@@ -1,6 +1,6 @@
 ## Personal Information
 - **Email:** georgeismailaj@yahoo.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/giorgos-ismailaj/)
+- **LinkedIn:** [George Ismailaj](https://www.linkedin.com/in/giorgos-ismailaj/)
 - **Military Obligations:** Fulfilled
 
 ## Education				        		
