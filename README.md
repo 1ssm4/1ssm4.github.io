@@ -1,1 +1,7 @@
-# 1ssm4.github.io
+# Software Engineer
+
+#### Technical Skills: Python
+
+## Education
+hahahhahah
+## Work Experienc
