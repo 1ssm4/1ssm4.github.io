@@ -61,5 +61,5 @@ challenges and solutions
 ## Skills
 - **Programming Languages:** Java, Python
 - **Frameworks:** Java EE, Spring, ZKoss, Vert.x, Django
-- **Databases:** MySQL, MariaDB, JPA
+- **Databases:** MySQL, MariaDB, MSSQL, OracleDB,JPA
 - **Tools:** Maven, Docker, Selenium, Appium, Git, Postman, Jira
